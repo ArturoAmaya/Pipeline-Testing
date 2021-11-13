@@ -7,5 +7,5 @@ function myFunc(
     wowantoherone,
     thisisgettingdumb
 ) {
-    console.log('Hello World!')
+    console.log('Hello World!') 
 }
